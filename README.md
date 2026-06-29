@@ -357,6 +357,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
 
+- **[Skill Hub](https://github.com/rdone4425/skill)** — Multi-platform AI Agent Skills navigator: 2595+ skills from 24 sources. Browse by category, filter by platform (Codex, Claude Code, Hermes, OpenCode, OpenClaw, Cursor). [Web](https://skill.442595.xyz/)
+
 - **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 36.8k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
 
 - **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 35.2k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
